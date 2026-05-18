@@ -1,0 +1,11 @@
+pyomo>=6.7
+pandas>=2.0
+numpy>=1.24
+numpy-financial>=1.0
+openpyxl>=3.1
+plotly>=5.18
+cloudpickle>=3.0
+h5py>=3.10
+
+# A MILP solver is also required. The original study used Gurobi.
+# Install one of: gurobipy, cplex, highspy, or a system GLPK/CBC executable.

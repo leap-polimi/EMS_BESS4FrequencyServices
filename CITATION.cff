@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "BESS Revenue Stacking Models for Italy and Germany"
+version: "1.0.0"
+authors:
+  - family-names: "Scrocca"
+    given-names: "Andrea"
+    affiliation: "Politecnico di Milano, Department of Energy"
+  - family-names: "Bovera"
+    given-names: "Filippo"
+    affiliation: "Politecnico di Milano, Department of Energy"
+repository-code: "https://github.com/leap-polimi/BESS_Revenue_Stacking_Models"
+abstract: "Python/Pyomo optimization and simulation models for assessing BESS revenue stacking in Italian and German electricity spot and balancing markets."
+keywords:
+  - battery energy storage systems
+  - revenue stacking
+  - electricity markets
+  - frequency regulation
+  - optimization
+  - mixed-integer linear programming
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Scrocca"
+      given-names: "Andrea"
+      affiliation: "Politecnico di Milano, Department of Energy"
+    - family-names: "Bovera"
+      given-names: "Filippo"
+      affiliation: "Politecnico di Milano, Department of Energy"
+    - family-names: "Rancilio"
+      given-names: "Giuliano"
+      affiliation: "Politecnico di Milano, Department of Energy"
+    - family-names: "Delfanti"
+      given-names: "Maurizio"
+      affiliation: "Politecnico di Milano, Department of Energy"
+  title: "Exploring the true potential of battery revenues stacking in Europe: A comparison of Italian and German electricity spot markets"
+  journal: "Sustainable Energy, Grids and Networks"
+  year: 2026
+  url: "https://www.sciencedirect.com/science/article/pii/S2352467726002006"
