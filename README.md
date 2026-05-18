@@ -1,4 +1,6 @@
-# BESS Revenue Stacking Models for Italy and Germany
+# EMS_BESS4FrequencyServices
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20267236.svg)](https://doi.org/10.5281/zenodo.20267236)
 
 This repository contains Python/Pyomo optimization and simulation models for assessing the revenue potential of utility-scale Battery Energy Storage Systems (BESS) in Italian and German electricity spot and balancing markets.
 
@@ -7,6 +9,12 @@ The models were developed for the paper:
 Scrocca, A., Bovera, F., Rancilio, G., and Delfanti, M. (2026).  
 **Exploring the true potential of battery revenues stacking in Europe: A comparison of Italian and German electricity spot markets**.  
 *Sustainable Energy, Grids and Networks*.
+
+The archived software release is available on Zenodo:
+
+Scrocca, A., & Bovera, F. (2026).  
+**EMS_BESS4FrequencyServices** (Version 1.0.0) [Software].  
+Zenodo. https://doi.org/10.5281/zenodo.20267236
 
 The code evaluates a front-of-the-meter BESS that stacks:
 
@@ -37,7 +45,19 @@ Affiliation: Politecnico di Milano, Department of Energy
 
 ## Citation
 
-If you use this software in scientific work, please cite the associated paper and the archived repository release.
+If you use this software in scientific work, please cite both the associated paper and the archived software release.
+
+### Associated paper
+
+Scrocca, A., Bovera, F., Rancilio, G., and Delfanti, M. (2026).  
+**Exploring the true potential of battery revenues stacking in Europe: A comparison of Italian and German electricity spot markets**.  
+*Sustainable Energy, Grids and Networks*.
+
+### Software release
+
+Scrocca, A., & Bovera, F. (2026).  
+**BESS Revenue Stacking Models for Italy and Germany** (Version 1.0.0) [Software].  
+Zenodo. https://doi.org/10.5281/zenodo.20267236
 
 A machine-readable citation file is available in `CITATION.cff`.
 

@@ -1,7 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated paper and this repository."
-title: "BESS Revenue Stacking Models for Italy and Germany"
+message: "If you use this software, please cite both the archived software release and the associated paper listed in preferred-citation."
+title: "EMS_BESS4FrequencyServices"
 version: "1.0.0"
+date-released: "2026-05-18"
+doi: "10.5281/zenodo.20267236"
+
 authors:
   - family-names: "Scrocca"
     given-names: "Andrea"
@@ -9,15 +12,21 @@ authors:
   - family-names: "Bovera"
     given-names: "Filippo"
     affiliation: "Politecnico di Milano, Department of Energy"
-repository-code: "https://github.com/leap-polimi/BESS_Revenue_Stacking_Models"
+
+repository-code: "https://github.com/leap-polimi/EMS_BESS4FrequencyServices"
+url: "https://doi.org/10.5281/zenodo.20267236"
+license: "GPL-3.0-or-later"
+
 abstract: "Python/Pyomo optimization and simulation models for assessing BESS revenue stacking in Italian and German electricity spot and balancing markets."
+
 keywords:
-  - battery energy storage systems
+  - battery energy storage system
   - revenue stacking
   - electricity markets
   - frequency regulation
   - optimization
   - mixed-integer linear programming
+
 preferred-citation:
   type: article
   authors:
