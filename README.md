@@ -9,6 +9,7 @@ The models were developed for the paper:
 Scrocca, A., Bovera, F., Rancilio, G., and Delfanti, M. (2026).  
 **Exploring the true potential of battery revenues stacking in Europe: A comparison of Italian and German electricity spot markets**.  
 *Sustainable Energy, Grids and Networks*.
+https://doi.org/10.1016/j.segan.2026.102318
 
 The archived software release is available on Zenodo:
 
@@ -52,6 +53,7 @@ If you use this software in scientific work, please cite both the associated pap
 Scrocca, A., Bovera, F., Rancilio, G., and Delfanti, M. (2026).  
 **Exploring the true potential of battery revenues stacking in Europe: A comparison of Italian and German electricity spot markets**.  
 *Sustainable Energy, Grids and Networks*.
+https://doi.org/10.1016/j.segan.2026.102318
 
 ### Software release
 
